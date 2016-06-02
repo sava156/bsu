@@ -1,0 +1,3 @@
+--adding message at: Tue Feb 16 19:04:19 MSK 2016  total added: 1
+--looking history at: Tue Feb 16 19:04:19 MSK 2016  total showed: 18
+--searching by author at: Tue Feb 16 19:04:29 MSK 2016  found: 10
